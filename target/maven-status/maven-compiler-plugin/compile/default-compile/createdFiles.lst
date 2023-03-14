@@ -1,0 +1,7 @@
+com\moz\logreader\controller\LogController.class
+com\moz\logreader\service\LogService.class
+com\moz\logreader\dto\ResponseDto.class
+com\moz\logreader\domain\LogFile.class
+com\moz\logreader\domain\LogData.class
+com\moz\logreader\LogReaderApplication.class
+com\moz\logreader\repository\LogFileRepository.class

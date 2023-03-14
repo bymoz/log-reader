@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LogReaderApplication<logreader>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.moz.logreader.LogReaderApplication",
+            "projectName": "logreader",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
