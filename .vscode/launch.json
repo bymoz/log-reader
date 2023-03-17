@@ -5,7 +5,19 @@
             "name": "Spring Boot-LogReaderApplication<logreader>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
             "mainClass": "com.moz.logreader.LogReaderApplication",
+            "projectName": "logreader",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-LogReaderApplication<logreader>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bymoz.logreader.LogReaderApplication",
             "projectName": "logreader",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
